@@ -8,6 +8,10 @@ namespace baitap
 {
     internal class Teacher
     {
+
         int a = 10;
+
+        int aa = 15;
+
     }
 }
